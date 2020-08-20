@@ -1,6 +1,6 @@
 package Main.java;
 
-public class StringFunctions {
+public class StringFunctions {//this class is code from the internet
     static String convert(String str)
     {
 
