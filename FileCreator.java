@@ -6,7 +6,7 @@ import java.nio.charset.StandardCharsets;
 import java.security.MessageDigest;
 import java.util.Scanner;
 
-public class OldMain {
+public class FileCreator {
 
     static MessageDigest digest;
     public static void main(String[]args){
